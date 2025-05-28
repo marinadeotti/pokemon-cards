@@ -1,13 +1,5 @@
 # Pokemon Cards
 
-This project was made following the requirements from the [Front End Challenge](https://github.com/aisdigital/FrontEndChallenge) for a ReactJS application.
-
-## Requirement Ajustments:
-
-1. Language: Since the API returns the results in English, this same language was used throughout the application for consistency. 
-
-2. Styles: This project implements TailwindCSS instead of SASS.
-
 ## Available Scripts
 
 In the project directory, you can run:
